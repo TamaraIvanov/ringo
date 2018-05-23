@@ -10,10 +10,10 @@
 		});
 
 
-		$window.on("load", function() {
+
 
 			$("#top").find(".description-content-wrapper").css({"right": 0});
-		});
+
 
 
 		var descHeight = $(".description").height();

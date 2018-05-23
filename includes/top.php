@@ -2,7 +2,7 @@
 	<div class="res_img col-md-12 p-0 no-display">
 		<img src="img/top_res.jpg">
 	</div>
-	<div class="description_wrapper col-md-12 col-lg-5 p-0 relative">
+	<div class="description_wrapper col-md-12 col-lg-4 p-0 relative">
 		<div class="description relative">
 			<div class="description-content-wrapper relative">
 
